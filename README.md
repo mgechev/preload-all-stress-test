@@ -10,11 +10,11 @@ As you can see from the comparison below, using `PreloadAllModules` is ~15x more
 
 ### Without `PreloadAllModules`
 
-<a href="https://raw.githubusercontent.com/mgechev/preload-all-stress-test/master/assets/no-preload-all.png.png" target="_blank"><img src="https://raw.githubusercontent.com/mgechev/preload-all-stress-test/master/assets/no-preload-all.png.png" alt="Without PreloadAllModules"></a>
+<a href="https://raw.githubusercontent.com/mgechev/preload-all-stress-test/master/assets/no-preload-all.png" target="_blank"><img src="https://raw.githubusercontent.com/mgechev/preload-all-stress-test/master/assets/no-preload-all.png" alt="Without PreloadAllModules"></a>
 
 ### Using `PreloadAllModules`
 
-<a href="https://raw.githubusercontent.com/mgechev/preload-all-stress-test/master/assets/preload-all.png.png" target="_blank"><img src="https://raw.githubusercontent.com/mgechev/preload-all-stress-test/master/assets/preload-all.png.png" alt="Using PreloadAllModules"></a>
+<a href="https://raw.githubusercontent.com/mgechev/preload-all-stress-test/master/assets/preload-all.png" target="_blank"><img src="https://raw.githubusercontent.com/mgechev/preload-all-stress-test/master/assets/preload-all.png" alt="Using PreloadAllModules"></a>
 
 ## License
 
